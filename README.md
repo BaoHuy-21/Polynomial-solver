@@ -6,3 +6,5 @@ A C++ program for polynomial arithmetic, featuring long division and automatic s
 - **Polynomial Long Division:** Handles complex division with quotient and remainder.
 - **Calculus:** First-order derivative calculation.
 - **Evaluation:** Calculates the polynomial value for a given x.
+## Cautious
+- **The "Polynomial solver" file is still in work for further improvements**
